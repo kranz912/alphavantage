@@ -2,17 +2,24 @@
     "Meta Data": {
         "1. Information": "Daily Prices (open, high, low, close) and Volumes",
         "2. Symbol": "^DJI",
-        "3. Last Refreshed": "2020-01-07",
+        "3. Last Refreshed": "2020-01-08",
         "4. Output Size": "Full size",
         "5. Time Zone": "US/Eastern"
     },
     "Time Series (Daily)": {
+        "2020-01-08": {
+            "1. open": "28556.1406",
+            "2. high": "28866.1797",
+            "3. low": "28522.5098",
+            "4. close": "28745.0898",
+            "5. volume": "291750000"
+        },
         "2020-01-07": {
-            "1. open": "28639.1992",
+            "1. open": "28639.1797",
             "2. high": "28685.5000",
             "3. low": "28565.2793",
             "4. close": "28583.6797",
-            "5. volume": "266677088"
+            "5. volume": "258900000"
         },
         "2020-01-06": {
             "1. open": "28465.5000",
@@ -908,7 +915,7 @@
             "2. high": "26950.8105",
             "3. low": "26733.3301",
             "4. close": "26922.1191",
-            "5. volume": "183940000"
+            "5. volume": "192170000"
         },
         "2019-07-03": {
             "1. open": "26832.3203",

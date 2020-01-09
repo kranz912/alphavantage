@@ -1,1 +1,1 @@
-# yahoo-finance-automation
+# stock automation
